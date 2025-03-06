@@ -1,1 +1,1 @@
-# applications_of_ml
+### This repository contains the lecture/tutorial material for applications of machine learning.
